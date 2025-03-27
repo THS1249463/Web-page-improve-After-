@@ -215,7 +215,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-image: url(../images/banner-bg.png);
+    background-image: url(../images/banner-bg.webp);
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -639,7 +639,7 @@ button {
 .client_section {
     width: 100%;
     float: left;
-    background-image: url(../images/client-bg.png);
+    background-image: url(../images/client-bg.webp);
     height: auto;
     background-size: 100% 100%;
     padding-bottom: 50px;
@@ -858,7 +858,7 @@ textarea#comment.massage-bt::placeholder {
     width: 100%;
     float: left;
     height: auto;
-    background-image: url(../images/footer-bg.png);
+    background-image: url(../images/footer-bg.webp);
     background-size: 100% 100%;
     padding: 90px 0px 0px 0px;
 }
